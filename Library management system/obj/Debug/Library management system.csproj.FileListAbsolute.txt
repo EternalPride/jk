@@ -1,0 +1,101 @@
+E:\winform结课作业\Library management system\Library management system\bin\Debug\Library management system.exe.config
+E:\winform结课作业\Library management system\Library management system\bin\Debug\Library management system.exe
+E:\winform结课作业\Library management system\Library management system\bin\Debug\Library management system.pdb
+E:\winform结课作业\Library management system\Library management system\obj\Debug\Library management system.csprojResolveAssemblyReference.cache
+E:\winform结课作业\Library management system\Library management system\obj\Debug\Library_management_system.gy.resources
+E:\winform结课作业\Library management system\Library management system\obj\Debug\Library_management_system.hs.resources
+E:\winform结课作业\Library management system\Library management system\obj\Debug\Library_management_system.lms.resources
+E:\winform结课作业\Library management system\Library management system\obj\Debug\Library_management_system.Properties.Resources.resources
+E:\winform结课作业\Library management system\Library management system\obj\Debug\Library_management_system.tjts.resources
+E:\winform结课作业\Library management system\Library management system\obj\Debug\Library management system.csproj.GenerateResource.Cache
+E:\winform结课作业\Library management system\Library management system\obj\Debug\Library management system.exe
+E:\winform结课作业\Library management system\Library management system\obj\Debug\Library management system.pdb
+E:\winform结课作业\Library management system\Library management system\obj\Debug\Library_management_system.sbxg.resources
+E:\winform结课作业\Library management system\Library management system\obj\Debug\Library_management_system.jstt.resources
+E:\winform结课作业\Library management system\Library management system\bin\Debug\Library management system.exe.manifest
+E:\winform结课作业\Library management system\Library management system\bin\Debug\Library management system.application
+E:\winform结课作业\Library management system\Library management system\obj\Debug\Library management system.exe.manifest
+E:\winform结课作业\Library management system\Library management system\obj\Debug\Library management system.application
+C:\Users\pc\Desktop\winform结课作业\Library management system\Library management system\bin\Debug\Library management system.exe.config
+C:\Users\pc\Desktop\winform结课作业\Library management system\Library management system\obj\Debug\Library management system.exe
+C:\Users\pc\Desktop\winform结课作业\Library management system\Library management system\obj\Debug\Library management system.pdb
+C:\Users\pc\Desktop\winform结课作业\Library management system\Library management system\bin\Debug\Library management system.exe.manifest
+C:\Users\pc\Desktop\winform结课作业\Library management system\Library management system\bin\Debug\Library management system.application
+C:\Users\pc\Desktop\winform结课作业\Library management system\Library management system\bin\Debug\Library management system.exe
+C:\Users\pc\Desktop\winform结课作业\Library management system\Library management system\bin\Debug\Library management system.pdb
+C:\Users\pc\Desktop\winform结课作业\Library management system\Library management system\obj\Debug\Library management system.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\winform结课作业\Library management system\Library management system\obj\Debug\Library_management_system.gy.resources
+C:\Users\pc\Desktop\winform结课作业\Library management system\Library management system\obj\Debug\Library_management_system.hs.resources
+C:\Users\pc\Desktop\winform结课作业\Library management system\Library management system\obj\Debug\Library_management_system.js.resources
+C:\Users\pc\Desktop\winform结课作业\Library management system\Library management system\obj\Debug\Library_management_system.jstt.resources
+C:\Users\pc\Desktop\winform结课作业\Library management system\Library management system\obj\Debug\Library_management_system.lms.resources
+C:\Users\pc\Desktop\winform结课作业\Library management system\Library management system\obj\Debug\Library_management_system.Properties.Resources.resources
+C:\Users\pc\Desktop\winform结课作业\Library management system\Library management system\obj\Debug\Library_management_system.sbxg.resources
+C:\Users\pc\Desktop\winform结课作业\Library management system\Library management system\obj\Debug\Library_management_system.tjts.resources
+C:\Users\pc\Desktop\winform结课作业\Library management system\Library management system\obj\Debug\Library management system.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\winform结课作业\Library management system\Library management system\obj\Debug\Library management system.exe.manifest
+C:\Users\pc\Desktop\winform结课作业\Library management system\Library management system\obj\Debug\Library management system.application
+C:\Users\PC305\Desktop\winform结课作业\Library management system\Library management system\bin\Debug\Library management system.exe.config
+C:\Users\PC305\Desktop\winform结课作业\Library management system\Library management system\obj\Debug\Library management system.exe
+C:\Users\PC305\Desktop\winform结课作业\Library management system\Library management system\obj\Debug\Library management system.pdb
+C:\Users\PC305\Desktop\winform结课作业\Library management system\Library management system\obj\Debug\Library management system.csprojResolveAssemblyReference.cache
+C:\Users\PC305\Desktop\winform结课作业\Library management system\Library management system\obj\Debug\Library_management_system.addread.resources
+C:\Users\PC305\Desktop\winform结课作业\Library management system\Library management system\obj\Debug\Library_management_system.gy.resources
+C:\Users\PC305\Desktop\winform结课作业\Library management system\Library management system\obj\Debug\Library_management_system.hs.resources
+C:\Users\PC305\Desktop\winform结课作业\Library management system\Library management system\obj\Debug\Library_management_system.js.resources
+C:\Users\PC305\Desktop\winform结课作业\Library management system\Library management system\obj\Debug\Library_management_system.jstt.resources
+C:\Users\PC305\Desktop\winform结课作业\Library management system\Library management system\obj\Debug\Library_management_system.lms.resources
+C:\Users\PC305\Desktop\winform结课作业\Library management system\Library management system\obj\Debug\Library_management_system.Properties.Resources.resources
+C:\Users\PC305\Desktop\winform结课作业\Library management system\Library management system\obj\Debug\Library_management_system.sbxg.resources
+C:\Users\PC305\Desktop\winform结课作业\Library management system\Library management system\obj\Debug\Library_management_system.tjts.resources
+C:\Users\PC305\Desktop\winform结课作业\Library management system\Library management system\obj\Debug\Library management system.csproj.GenerateResource.Cache
+C:\Users\PC305\Desktop\winform结课作业\Library management system\Library management system\bin\Debug\Library management system.exe.manifest
+C:\Users\PC305\Desktop\winform结课作业\Library management system\Library management system\bin\Debug\Library management system.application
+C:\Users\PC305\Desktop\winform结课作业\Library management system\Library management system\bin\Debug\Library management system.exe
+C:\Users\PC305\Desktop\winform结课作业\Library management system\Library management system\bin\Debug\Library management system.pdb
+C:\Users\PC305\Desktop\winform结课作业\Library management system\Library management system\obj\Debug\Library management system.exe.manifest
+C:\Users\PC305\Desktop\winform结课作业\Library management system\Library management system\obj\Debug\Library management system.application
+E:\winform\winform结课作业\Library management system\Library management system\bin\Debug\Library management system.exe.config
+E:\winform\winform结课作业\Library management system\Library management system\obj\Debug\Library management system.exe
+E:\winform\winform结课作业\Library management system\Library management system\obj\Debug\Library management system.pdb
+E:\winform\winform结课作业\Library management system\Library management system\bin\Debug\Library management system.exe.manifest
+E:\winform\winform结课作业\Library management system\Library management system\bin\Debug\Library management system.application
+E:\winform\winform结课作业\Library management system\Library management system\bin\Debug\Library management system.exe
+E:\winform\winform结课作业\Library management system\Library management system\bin\Debug\Library management system.pdb
+E:\winform\winform结课作业\Library management system\Library management system\obj\Debug\Library management system.csprojResolveAssemblyReference.cache
+E:\winform\winform结课作业\Library management system\Library management system\obj\Debug\Library_management_system.addread.resources
+E:\winform\winform结课作业\Library management system\Library management system\obj\Debug\Library_management_system.gy.resources
+E:\winform\winform结课作业\Library management system\Library management system\obj\Debug\Library_management_system.hs.resources
+E:\winform\winform结课作业\Library management system\Library management system\obj\Debug\Library_management_system.js.resources
+E:\winform\winform结课作业\Library management system\Library management system\obj\Debug\Library_management_system.jstt.resources
+E:\winform\winform结课作业\Library management system\Library management system\obj\Debug\Library_management_system.lms.resources
+E:\winform\winform结课作业\Library management system\Library management system\obj\Debug\Library_management_system.Properties.Resources.resources
+E:\winform\winform结课作业\Library management system\Library management system\obj\Debug\Library_management_system.sbxg.resources
+E:\winform\winform结课作业\Library management system\Library management system\obj\Debug\Library_management_system.tjts.resources
+E:\winform\winform结课作业\Library management system\Library management system\obj\Debug\Library_management_system.xgyhxx.resources
+E:\winform\winform结课作业\Library management system\Library management system\obj\Debug\Library management system.csproj.GenerateResource.Cache
+E:\winform\winform结课作业\Library management system\Library management system\obj\Debug\Library management system.exe.manifest
+E:\winform\winform结课作业\Library management system\Library management system\obj\Debug\Library management system.application
+E:\winform\winform结课作业\Library management system\Library management system\obj\Debug\Library_management_system.dzjylb.resources
+C:\Users\pc\Desktop\Library management system\Library management system\bin\Debug\Library management system.exe.config
+C:\Users\pc\Desktop\Library management system\Library management system\obj\Debug\Library management system.exe
+C:\Users\pc\Desktop\Library management system\Library management system\obj\Debug\Library management system.pdb
+C:\Users\pc\Desktop\Library management system\Library management system\bin\Debug\Library management system.exe.manifest
+C:\Users\pc\Desktop\Library management system\Library management system\bin\Debug\Library management system.application
+C:\Users\pc\Desktop\Library management system\Library management system\bin\Debug\Library management system.exe
+C:\Users\pc\Desktop\Library management system\Library management system\bin\Debug\Library management system.pdb
+C:\Users\pc\Desktop\Library management system\Library management system\obj\Debug\Library management system.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\Library management system\Library management system\obj\Debug\Library_management_system.addread.resources
+C:\Users\pc\Desktop\Library management system\Library management system\obj\Debug\Library_management_system.dzjylb.resources
+C:\Users\pc\Desktop\Library management system\Library management system\obj\Debug\Library_management_system.gy.resources
+C:\Users\pc\Desktop\Library management system\Library management system\obj\Debug\Library_management_system.hs.resources
+C:\Users\pc\Desktop\Library management system\Library management system\obj\Debug\Library_management_system.js.resources
+C:\Users\pc\Desktop\Library management system\Library management system\obj\Debug\Library_management_system.jstt.resources
+C:\Users\pc\Desktop\Library management system\Library management system\obj\Debug\Library_management_system.lms.resources
+C:\Users\pc\Desktop\Library management system\Library management system\obj\Debug\Library_management_system.Properties.Resources.resources
+C:\Users\pc\Desktop\Library management system\Library management system\obj\Debug\Library_management_system.sbxg.resources
+C:\Users\pc\Desktop\Library management system\Library management system\obj\Debug\Library_management_system.tjts.resources
+C:\Users\pc\Desktop\Library management system\Library management system\obj\Debug\Library_management_system.xgyhxx.resources
+C:\Users\pc\Desktop\Library management system\Library management system\obj\Debug\Library management system.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\Library management system\Library management system\obj\Debug\Library management system.exe.manifest
+C:\Users\pc\Desktop\Library management system\Library management system\obj\Debug\Library management system.application

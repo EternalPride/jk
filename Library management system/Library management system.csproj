@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{20985084-CEE4-45C2-A457-7CC7ED38E0D4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Library_management_system</RootNamespace>
+    <AssemblyName>Library management system</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>发布\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>360FCF3C83651BB5991C6DF345BFFEFAE8C7BD8E</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Library management system_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="addread.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addread.Designer.cs">
+      <DependentUpon>addread.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Class1.cs" />
+    <Compile Include="dzjylb.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dzjylb.Designer.cs">
+      <DependentUpon>dzjylb.cs</DependentUpon>
+    </Compile>
+    <Compile Include="gy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="gy.Designer.cs">
+      <DependentUpon>gy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hs.Designer.cs">
+      <DependentUpon>hs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="js.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="js.Designer.cs">
+      <DependentUpon>js.cs</DependentUpon>
+    </Compile>
+    <Compile Include="jstt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="jstt.Designer.cs">
+      <DependentUpon>jstt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lms.Designer.cs">
+      <DependentUpon>lms.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="sbxg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sbxg.Designer.cs">
+      <DependentUpon>sbxg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tjts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tjts.Designer.cs">
+      <DependentUpon>tjts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="xgyhxx.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="xgyhxx.Designer.cs">
+      <DependentUpon>xgyhxx.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="addread.resx">
+      <DependentUpon>addread.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dzjylb.resx">
+      <DependentUpon>dzjylb.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gy.resx">
+      <DependentUpon>gy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hs.resx">
+      <DependentUpon>hs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="js.resx">
+      <DependentUpon>js.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="jstt.resx">
+      <DependentUpon>jstt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lms.resx">
+      <DependentUpon>lms.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="sbxg.resx">
+      <DependentUpon>sbxg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tjts.resx">
+      <DependentUpon>tjts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="xgyhxx.resx">
+      <DependentUpon>xgyhxx.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Library management system_TemporaryKey.pfx" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 和 x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
